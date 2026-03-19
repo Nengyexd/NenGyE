@@ -5,17 +5,22 @@
 		"username": "CanNight"
 	},
 	"theme": {
-		"colorBrand": "#FB7299",
-		"colorPrimary": "#1F2937",
-		"colorSecondary": "#6B7280",
-		"colorBrandSecondary": "#7DCFFF",
-		"colorBg": "#FFF7FB",
-		"colorBorder": "#F6D2DF",
-		"colorCard": "#FFFFFFE6",
-		"colorArticle": "#FFFFFF"
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FFEAF4"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
@@ -34,3 +39,33 @@
 			"url": ""
 		}
 	],
+	"currentBackgroundImageId": "",
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/Nengyexd",
+			"label": "Github",
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "z599978009@gmail.com",
+			"label": "",
+			"order": 1
+		}
+	],
+	"clockShowSeconds": true,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": true,
+	"enableCategories": true,
+	"currentHatIndex": 7,
+	"hatFlipped": false,
+	"enableChristmas": false,
+	"beian": {
+		"text": "",
+		"link": ""
+	}
+}
