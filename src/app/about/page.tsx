@@ -175,8 +175,8 @@ export default function Page() {
 							initial={{ opacity: 0, scale: 0.6 }}
 							animate={{ opacity: 1, scale: 1 }}
 							transition={{ delay: 0 }}
-							className='bg-card flex h-[53px] w-[53px] items-center justify-center rounded-full border'>
-							<GithubSVG />
+							className='flex h-[53px] w-[53px] items-center justify-center rounded-full border border-black/20 bg-[#0f1115] shadow-sm'>
+							<GithubSVG className='size-8' />
 						</motion.a>
 
 						<LikeButton slug='open-source' delay={0} />
