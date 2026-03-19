@@ -5,22 +5,17 @@
 		"username": "CanNight"
 	},
 	"theme": {
-		"colorBrand": "#35bfab",
-		"colorPrimary": "#334f52",
-		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#1fc9e7",
-		"colorBg": "#eeeeee",
-		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff66",
-		"colorArticle": "#ffffffcc"
+		"colorBrand": "#FB7299",
+		"colorPrimary": "#1F2937",
+		"colorSecondary": "#6B7280",
+		"colorBrandSecondary": "#7DCFFF",
+		"colorBg": "#FFF7FB",
+		"colorBorder": "#F6D2DF",
+		"colorCard": "#FFFFFFE6",
+		"colorArticle": "#FFFFFF"
 	},
 	"backgroundColors": [
-		"#EDDD62",
-		"#9EE7D1",
-		"#84D68A",
-		"#EDDD62",
-		"#88E6E5",
-		"#a7f3d0"
+		"#FFEAF4"
 	],
 	"artImages": [
 		{
@@ -69,3 +64,6 @@
 		"link": ""
 	}
 }
+
+
+
