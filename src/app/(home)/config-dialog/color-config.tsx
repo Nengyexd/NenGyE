@@ -56,6 +56,20 @@ const COLOR_PRESETS: ColorPreset[] = [
 			colorArticle: '#6f6f6f33'
 		},
 		backgroundColors: ['#16007b']
+	},
+	{
+		name: '粉白（B站）',
+		theme: {
+			colorBrand: '#FB7299',
+			colorBrandSecondary: '#7DCFFF',
+			colorPrimary: '#1F2937',
+			colorSecondary: '#6B7280',
+			colorBg: '#FFF7FB',
+			colorBorder: '#F6D2DF',
+			colorCard: '#FFFFFFE6',
+			colorArticle: '#FFFFFF'
+		},
+		backgroundColors: ['#FFEAF4', '#FFD8EA', '#FBCFE8', '#E0F2FE', '#FFEAF4']
 	}
 ]
 
